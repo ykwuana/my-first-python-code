@@ -1,3 +1,3 @@
 # my-first-python-code
-ini adalah project pertama saya dengan python
+ini adalah project pertama saya dengan python....
 semangat!!!
