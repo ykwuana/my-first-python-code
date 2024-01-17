@@ -6,5 +6,5 @@ semua sintaksis dasar bahasa pemrograman terdiri dari :
 3. perulangan : mengulang langkah yang sama berkali-kali selama/sampai kondisi terpenuhi
 """
 
-print('ibu berkata, "pergi ke toko" ')
+print('ibu berkata, "pergi ke tokoo" ')
 print('budi menjawab, "baik apa yang harus saya lakukan di toko?" ')
